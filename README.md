@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Elena Amandola 👋
 
-<!--
-**Elly11Nov/Elly11Nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Technical Writer | AI • API Documentation • SOPs • Information Architecture**
 
-Here are some ideas to get you started:
+I create **technical documentation, API documentation, SOPs, information architecture, and AI-enabled workflows for complex software products**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+
+* 📚 Technical documentation & structured content
+* 🔌 API documentation
+* 📋 SOPs and process documentation
+* 🧭 Information architecture & knowledge design
+* 🤖 AI-enabled workflows and tools
+* 🔍 Requirements analysis
+* 🔗 Connecting people, processes, and technology
+
+### Current projects
+
+I'm exploring practical applications of AI for:
+
+* **Job intelligence and search**
+* **Requirements analysis**
+* **Documentation and knowledge workflows**
+
+### Background
+
+18+ years working across technical writing, requirements, structured authoring, UX, and complex software environments.
+
+**Portfolio:** [Almond Knowledge Design](https://almondknowledgedesign.com)
+
