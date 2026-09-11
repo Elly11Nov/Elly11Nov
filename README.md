@@ -20,7 +20,8 @@ I create **technical documentation, API documentation, SOPs, information archite
 - 🧭 [Deal Compass](https://github.com/Elly11Nov/term-sheet-ninja) — AI-assisted term sheet analysis and decision support
 - 📚 [Configuration Documentation](https://github.com/Elly11Nov/Configuration-Documentation) — API, configuration and technical documentation
 - 🤖 [AI Requirements Analyst](https://github.com/Elly11Nov/AI-Requirements-Analyst) — requirements analysis, modelling and AI-assisted workflows
-- Supporting work: [Documentation Pipeline](https://github.com/Elly11Nov/Documentation-Pipeline) · [SOPs](https://github.com/Elly11Nov/SOPs)
+  
+ Supporting work: [Documentation Pipeline](https://github.com/Elly11Nov/Documentation-Pipeline) · [SOPs](https://github.com/Elly11Nov/SOPs)
 
 ### Background
 
