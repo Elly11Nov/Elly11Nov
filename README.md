@@ -14,11 +14,13 @@ I create **technical documentation, API documentation, SOPs, information archite
 * 🔍 Requirements analysis
 * 🔗 Connecting people, processes, and technology
 
-### Selected projects
 
-- 🔍 [LinkedIn Insights](https://github.com/Elly11Nov/linkedin-buddy-dash) — AI-assisted job-search and LinkedIn network intelligence
+- ### Selected projects
+
+- 🔍 [LinkedIn Insights](https://github.com/Elly11Nov/linkedin-buddy-dash) — AI-assisted job-search and network intelligence
 - 🧭 [Deal Compass](https://github.com/Elly11Nov/term-sheet-ninja) — AI-assisted term sheet analysis and decision support
 - 📚 [Configuration Documentation](https://github.com/Elly11Nov/Configuration-Documentation) — API, configuration and technical documentation
+- 🔄 [Documentation / Knowledge Pipeline](https://github.com/Elly11Nov/Documentation-Pipeline) — AI-assisted documentation and knowledge workflows
 - 🤖 [AI Requirements Analyst](https://github.com/Elly11Nov/AI-Requirements-Analyst) — requirements analysis, modelling and AI-assisted workflows
   
  Supporting work:
